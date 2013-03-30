@@ -2,7 +2,7 @@ Python
 ======
 www.coursera.org 
 
-<p>**Learing to Program: The Fundamentals**</br>
+**Learing to Program: The Fundamentals** <p>
 by Jennifer Campbell, Paul Gries </p>
 <p>Univesity of Toronto</p>
 <p>*autumn 2012*</p>
