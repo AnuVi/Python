@@ -15,7 +15,7 @@ by Jennifer Campbell, Paul Gries </p>
 
 
 
-**Learn to Program: Crafting Quality Code **
+**Learn to Program: Crafting Quality Code**
 <p>
 by Jennifer Campbell, Paul Gries</p>
 <p>University of Toronto</p>
