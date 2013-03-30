@@ -5,7 +5,7 @@ www.coursera.org
 **Learing to Program: The Fundamentals** <p>
 by Jennifer Campbell, Paul Gries </p>
 <p>Univesity of Toronto</p>
-<p>*autumn 2012*</p>
+*autumn 2012*
 
 
 
@@ -15,7 +15,8 @@ by Jennifer Campbell, Paul Gries </p>
 
 
 
-<p>**Learn to Program: Crafting Quality Code **</br>
+**Learn to Program: Crafting Quality Code **
+<p>
 by Jennifer Campbell, Paul Gries</p>
 <p>University of Toronto</p>
-<p>*spring 2013*</p>
+*spring 2013*
