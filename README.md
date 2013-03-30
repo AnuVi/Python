@@ -2,13 +2,20 @@ Python
 ======
 www.coursera.org 
 
-Learing to Program: The Fundamentals</br>
-by Jennifer Campbell, Paul Gries </br>
-Univesity of Toronto</br>
-autumn 2012</br>
+<p>Learing to Program: The Fundamentals</br>
+by Jennifer Campbell, Paul Gries </p>
+<p>Univesity of Toronto</p>
+<p>autumn 2012</p>
 
 
-Learn to Program: Crafting Quality Code </br>
-by Jennifer Campbell, Paul Gries</br>
-University of Toronto</br>
-spring 2013</br>
+
+
+
+
+
+
+
+<p>Learn to Program: Crafting Quality Code </br>
+by Jennifer Campbell, Paul Gries</p>
+<p>University of Toronto</p>
+<p>spring 2013</p>
